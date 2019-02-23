@@ -1,0 +1,45 @@
+
+img { 
+    height: 10%;
+    width: 10%;
+}
+
+
+.container {
+    background-color: #ffffff;
+    width: 960px;
+    border: 20px solid green;
+    padding: 25px;
+    margin: 25px;
+    color: #777777;
+    font-size: 18px;
+}
+
+.component {
+    height: 864px;
+    width: 1536px;
+    background-color: #ededed;
+}
+
+
+head {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+header {
+    background-color: #ffffff;
+
+
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #70a7a4;
+}
+h2 {
+    color: #4aaaa5;
+}
+
+body {
+    background-color: #ffffff;
+}
