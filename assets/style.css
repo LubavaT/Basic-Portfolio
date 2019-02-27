@@ -8,11 +8,12 @@ img {
 .container {
     background-color: #ffffff;
     width: 960px;
-    border: 20px solid green;
+    border: 20px solid rgb(0, 77, 128);
     padding: 25px;
     margin: 25px;
     color: #777777;
     font-size: 18px;
+    font-family: 'Indie Flower', cursive;
 }
 
 .component {
@@ -28,8 +29,6 @@ head {
 
 header {
     background-color: #ffffff;
-
-
 }
 
 h1 {
@@ -40,6 +39,20 @@ h2 {
     color: #4aaaa5;
 }
 
+
 body {
     background-color: #ffffff;
+}
+
+button {
+    padding: 25px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: rgb(0, 123, 139);
+}
+nav {
+    float: right;
 }
